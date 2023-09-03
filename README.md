@@ -1,10 +1,10 @@
 # Welcome to [Mohamed Barhoun](https://www.facebook.com/KG.FoNiXPro12) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.facebook.com/KG.FoNiXPro12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
+<a href="https://www.facebook.com/KG.FoNiXPro12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="KG.FoNiXPro12" height="30" width="40" /></a>
 &nbsp;
-<a href="https://twitter.com/FoNiXPr0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
+<a href="https://twitter.com/FoNiXPr0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="FoNiXPr0" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.instagram.com/fonixpro22" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fonixpro22" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fonixpro22" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.youtube.com/@fonixpr012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@fonixpr012" height="30" width="40" /></a>
 &nbsp;
