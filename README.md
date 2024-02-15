@@ -22,9 +22,9 @@ That's why I like to make things that make a difference.
 
 ### Personal Stuffs:
 
-- 👨‍🎓 I'm a **Software Engineering Student**
-- 🔭 I’m currently learning at [ALX Program](https://www.alxafrica.com) Program.
-- 👨‍🏫 I'm the **Leader** in [ALTTAB GAMING](https://www.facebook.com/alttabgamers) **community.**
+- 👨‍🎓 I'm a **Software Engineering**
+- 🔭 I’m currently at [ALX Program](https://www.alxafrica.com) Program.
+- 👨‍🏫 I'm the **Leader** in [FoNiX Gaming](https://www.facebook.com/FoNiXGaming) **community.**
 - 💬 Ask me about anything, I am happy to help
 - 👯 Join my Page in facebook community [FoNiX Gaming](https://www.facebook.com/FoNiXGaming).
 - 📬 How to reach me: [MohamedBarhoun1999@gmail.com](mailto:mohamedbarhoun1999@gmail.com).
